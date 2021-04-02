@@ -16,13 +16,6 @@ I WANT to generate a webpage that displays my team's basic profile
 SO THAT I have quick look at their professional profiles and contact information
 ```
 
-## Mock-Up
-
-The following image shows a mock-up of the generated HTML’s appearance and functionality:
-
-![HTML webpage titled “My Team” features five boxes listing employee names, titles, and other key info.](./Assets/10-object-oriented-programming-homework-demo.png)
-
-The styling in the image is just an example, so feel free to add your own.
 
 ## Getting Started
 
