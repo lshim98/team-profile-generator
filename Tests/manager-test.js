@@ -1,5 +1,5 @@
 const Manager = require('../Dev/Manager(s)');
-const Employee = require('../Dev/Work-employees');
+const Employee = require('../Dev/work-employees');
 
 
 describe('Manager', () => {
