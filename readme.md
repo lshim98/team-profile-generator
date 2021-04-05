@@ -82,6 +82,19 @@ In addition to `Employee`'s properties and methods, `Intern` will also have the 
 
 Finally, although it’s not a requirement, consider adding validation to ensure that user input is in the proper format.
 
+### Installation
+In order to use the team-profile generator: 
+1. Use Git Bash or a VS terminal to run the following: 
+   * Run 'npm i' to pull down the npm node package manager
+   * Run 'npm init -y' to install package.json
+   * Run 'npm install inquirer' to install the inquirer package
+   * Run 'npm install --save-dev jest' to install the jest testing package
+2. Open the index.js file in Git Bash or the VS terminal
+3. Run 'node index.js' to begin the team-profile generator
+4. To run a test, open the 'employees.test.js' file in Git Bash or the VS terminal
+5. Run 'npm run test' to run the tests to see if they all pass.
+
+
 ### Walkthrough Demostrations
 
 * A walkthrough video that demonstrates the functionality of the Team Profile Generator and passing tests must be submitted, and a link to the video should be included in your README file.
@@ -106,5 +119,5 @@ If you have any questions, please contact me at:\
 ✉️[Email](mailto:lshim1720@gmail.com)\
 📂[GitHub](<https://github.com/lshim98>)
 
-
+__________________________________________________________________________________________________________________________________________________
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
