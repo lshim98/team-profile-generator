@@ -96,5 +96,15 @@ Finally, although it’s not a requirement, consider adding validation to ensure
 
 ---
 
+## License
+__________________________________________________________________________________________________________________________________________________
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+## Contact
+--------------------------------------------------------------------------------------------------------------------------------------------------
+If you have any questions, please contact me at:\
+✉️[Email](mailto:lshim1720@gmail.com)\
+📂[GitHub](<https://github.com/lshim98>)
+
 
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
