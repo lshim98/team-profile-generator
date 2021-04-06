@@ -33,9 +33,9 @@ In order to use the team-profile generator:
 5. Run 'npm run test' to run the tests to see if they all pass.
 
 
-### Demostrations
+### Preview
 --------------------------------------------------------------------------------------------------------------------------------------------------
-
+![screencapture-file-C-Users-lshim-Downloads-team-profile-generator-index-html-2021-04-05-20_24_32](https://user-images.githubusercontent.com/76062539/113642067-f78fa800-964c-11eb-8ef0-bf16f6dccece.png)
 
 
 ---
