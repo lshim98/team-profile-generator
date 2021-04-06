@@ -1,4 +1,5 @@
-const Engineer = require("./work-engineers");
+const Employee = require("./work-employees");
+const Engineer = require("./Engineer(s)");
 const Intern = require("./Intern(s)");
 const Manager = require("./Manager(s)");
 
@@ -44,4 +45,8 @@ function generateHTML(data) {
 
 module.exports = generateHTML;
 
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> cf70f205ba520bec7c20697eb1394e7824f3327c
