@@ -32,11 +32,15 @@ In order to use the team-profile generator:
 4. To run a test, open the 'employees.test.js' file in Git Bash or the VS terminal
 5. Run 'npm run test' to run the tests to see if they all pass.
 
+---
+
+### Test
+--------------------------------------------------------------------------------------------------------------------------------------------------
+![Captured@4-5-21](https://user-images.githubusercontent.com/76062539/113643131-90272780-964f-11eb-9754-a7379c79a0c7.JPG)
 
 ### Preview
 --------------------------------------------------------------------------------------------------------------------------------------------------
 ![screencapture-file-C-Users-lshim-Downloads-team-profile-generator-index-html-2021-04-05-20_24_32](https://user-images.githubusercontent.com/76062539/113642067-f78fa800-964c-11eb-8ef0-bf16f6dccece.png)
-
 
 ---
 
