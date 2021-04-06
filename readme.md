@@ -1,6 +1,8 @@
 # Team Profile Generator
+--------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Your Task
+--------------------------------------------------------------------------------------------------------------------------------------------------
 
 Your task is to build a Node.js command-line application that takes in information about employees on a software engineering team, then generates an HTML webpage that displays summaries for each person. Testing is key to making code maintainable, so you’ll also write a unit test for every part of your code and ensure that it passes each test.
 
@@ -8,6 +10,7 @@ Because this application won’t be deployed, you’ll need to provide a link to
 
 
 ## User Story
+--------------------------------------------------------------------------------------------------------------------------------------------------
 
 ```md
 AS A Student
@@ -17,6 +20,7 @@ SO THAT I have quick look at their professional profiles and contact information
 
 
 ## Getting Started
+--------------------------------------------------------------------------------------------------------------------------------------------------
 
 Your application should use [Jest](https://www.npmjs.com/package/jest) for running the unit tests and [Inquirer](https://www.npmjs.com/package/inquirer) for collecting input from the user. The application will be invoked by using the following command:
 
@@ -83,6 +87,8 @@ In addition to `Employee`'s properties and methods, `Intern` will also have the 
 Finally, although it’s not a requirement, consider adding validation to ensure that user input is in the proper format.
 
 ### Installation
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
 In order to use the team-profile generator: 
 1. Use Git Bash or a VS terminal to run the following: 
    * Run 'npm i' to pull down the npm node package manager
@@ -96,21 +102,14 @@ In order to use the team-profile generator:
 
 
 ### Walkthrough Demostrations
+--------------------------------------------------------------------------------------------------------------------------------------------------
 
-* A walkthrough video that demonstrates the functionality of the Team Profile Generator and passing tests must be submitted, and a link to the video should be included in your README file.
 
-* The walkthrough video must show all four tests passing from the command line.
-
-* The walkthrough video must demonstrate how a user would invoke the application from the command line.
-
-* The walkthrough video must demonstrate how a user would enter responses to all of the prompts in the application.
-
-* The walkthrough video must demonstrate a generated HTML file that matches the user input.
 
 ---
 
 ## License
-__________________________________________________________________________________________________________________________________________________
+--------------------------------------------------------------------------------------------------------------------------------------------------
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Contact
@@ -119,5 +118,6 @@ If you have any questions, please contact me at:\
 ✉️[Email](mailto:lshim1720@gmail.com)\
 📂[GitHub](<https://github.com/lshim98>)
 
-__________________________________________________________________________________________________________________________________________________
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
