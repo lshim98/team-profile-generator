@@ -43,3 +43,5 @@ function generateHTML(data) {
     html.push(data.filter(employee => employee.getRole() === 'Intern').map(intern => generateIntern(intern)))
 
 module.exports = generateHTML;
+
+}
